@@ -1,0 +1,17 @@
+AirPlane Seating Arrangement
+Input :
+Seats/Position :	[2,3]	[5,4]	[3,2]	[5,3]	[2,4]	
+Total No. of Passengers :	50
+
+Output :
+
+Total No. of AirPlane Seats:	55
+
+Airplane Seats/Position:
+31 35 1 	2 36 37 3 		4 5 	6 38 7 		8 39 40 32 	
+33 41 9 	10 42 43 11 	12 13 	14 44 15 	16 45 46 34 	
+ 			17 47 48 18 	19 20 	21 49 22 	  
+ 			23 50 X 24 	   			25 X 26 	   
+   			27 X X 28 	   	 		29 X 30 	    
+
+Available AirPlane Seats:	5
